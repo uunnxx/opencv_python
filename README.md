@@ -1,3 +1,4 @@
+
 # opencv_python
 
 
@@ -19,9 +20,9 @@
 ---------------
 
 ## Articles:
-- [Augmented reality with Python and OpenCV (part 1)](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1)
+- [Augmented Reality with Python and OpenCV (part 1)](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1)
 - [Augmented Reality with Python and OpenCV (part 2)](https://bitesofcode.wordpress.com/2018/09/16/augmented-reality-with-python-and-opencv-part-2/)
-- [Lane detection via Hough Transform](https://bitesofcode.wordpress.com/2020/02/15/lane-detection-via-hough-transform/)
+- [Lane Detection via Hough Transform](https://bitesofcode.wordpress.com/2020/02/15/lane-detection-via-hough-transform/)
 - [Procedural Racetrack Generation](https://bitesofcode.wordpress.com/2020/04/09/procedural-racetrack-generation/)
 
 
