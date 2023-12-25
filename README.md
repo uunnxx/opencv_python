@@ -1,8 +1,8 @@
 
-# opencv_python
+## OpenCV Python
 
 
-## Books:
+### Books:
 - Learn Computer Vision Using OpenCV
 - Learning OpenCV 4 Computer Vision with Python 3 (3rd Edition)
 - Learning OpenCV 5 Computer Vision with Python (4th Edition)
@@ -19,7 +19,7 @@
 
 ---------------
 
-## Articles:
+### Articles:
 - [Augmented Reality with Python and OpenCV (part 1)](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1)
 - [Augmented Reality with Python and OpenCV (part 2)](https://bitesofcode.wordpress.com/2018/09/16/augmented-reality-with-python-and-opencv-part-2/)
 - [Lane Detection via Hough Transform](https://bitesofcode.wordpress.com/2020/02/15/lane-detection-via-hough-transform/)
